@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Ravi Giramoni
+# 👋 Hi, I'm RAVI GIRAMONI
 
-### Data Scientist | Machine Learning Engineer | AI Engineer
+### Data Scientist | AI & ML Engineer
 
 🎓 MSc Artificial Intelligence graduate passionate about building end-to-end machine learning solutions that transform data into actionable insights. I enjoy solving real-world business problems through predictive analytics, machine learning, and AI-powered applications.
 
