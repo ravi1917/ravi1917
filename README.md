@@ -16,32 +16,48 @@
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Programming Languages
-- Python
-- SQL
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Machine Learning & AI
-- Scikit-learn
-- TensorFlow
-- XGBoost
-- Pandas
-- NumPy
+---
 
-### Data Analysis & Visualization
-- Matplotlib
-- Seaborn
+### 📊 Data Science & Machine Learning
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC1C24?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Web & Deployment
-- FastAPI
-- Docker
-- Git
-- GitHub
+---
 
-### Cloud & Databases
-- Google Cloud Platform (GCP)
-- BigQuery ML
+### 📈 Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+---
+
+### 🌐 Backend & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### ☁️ Cloud Technologies
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery ML](https://img.shields.io/badge/BigQuery_ML-669DF6?style=for-the-badge)
+
+---
+
+### 🛠️ Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
