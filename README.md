@@ -63,7 +63,7 @@ Designed a machine learning pipeline on Google Cloud Platform to predict custome
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- LinkedIn: www.linkedin.com/in/ravi-giramoni
 
 ---
 
